@@ -15,3 +15,5 @@ Note: when I printed mine the outer bolt nuts holes were a bit loose, I updated 
 The bolts/nuts are 6-32x1 size, although 1" I think is too long if you can get it shorter like half an inch that would be better.
 
 You can see in the pic above how the bolts stick far out.
+
+Also you need to let the superglue cure overnight/a long time since it's a lot of weight.
