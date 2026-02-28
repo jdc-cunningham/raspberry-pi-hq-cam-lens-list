@@ -1,4 +1,8 @@
-### About
+### Custom parts
+
+### Tripod clamps
+
+The two parts together take 3.5 hrs to print
 
 This is a very basic clamp using two bolts and a 4-20 nut for the tripod.
 
@@ -17,3 +21,7 @@ The bolts/nuts are 6-32x1 size, although 1" I think is too long if you can get i
 You can see in the pic above how the bolts stick far out.
 
 Also you need to let the superglue cure overnight/a long time since it's a lot of weight.
+
+### Lens hood
+
+This takes 6.5 hrs to print
