@@ -2,7 +2,7 @@
 
 This is a very basic clamp using two bolts and a 4-20 nut for the tripod.
 
-<img src="./model.JPG"/>
+<img src="./tripod-clamps.JPG"/>
 
 See the completed part below.
 
