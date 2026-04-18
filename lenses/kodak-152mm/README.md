@@ -22,6 +22,8 @@ Very sharp
 
 With the crop factor of the HQ cam this is for very far away shots.
 
+Also the vibration since there is no ibis on this camera/sensor it's brutal, even wind will make the footage shaky.
+
 # Sample images
 
 <img src="./ferris-wheel.jpg"/>
