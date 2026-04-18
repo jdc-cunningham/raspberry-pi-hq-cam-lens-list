@@ -1,8 +1,8 @@
 ### Name
 
-photo of lens mounted to RPi IMX477 or Arducam sensor (specify)
+photo of lens
 
-### Cost
+### Impressions
 
 ### Flange adjustment required?
 
@@ -10,8 +10,10 @@ photo of lens mounted to RPi IMX477 or Arducam sensor (specify)
 
 #### Cons
 
-#### Close Up shot
+#### Sample images
 
-#### Far shot
+- normal and macro
 
-#### Notes
+#### Outings
+
+- descending date, sample pic, notes
