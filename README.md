@@ -1,4 +1,4 @@
-# A list of lenses I've tried with the HQ cam and sample photos
+# A list of lenses I've tried with the Raspberry Pi HQ cam
 
 | Brand                   | Mount Type | Focal Length | F-stop | Sample Pic                                          | Video                                               | Cost   |
 | ----------------------- | ---------- | ------------ | ------ | --------------------------------------------------- | --------------------------------------------------  | ------ |
