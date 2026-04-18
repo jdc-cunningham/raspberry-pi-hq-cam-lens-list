@@ -1,19 +1,19 @@
-### Name
+# Name
 
 photo of lens
 
-### Impressions
+# Impressions
 
-### Flange adjustment required?
+# Flange adjustment required?
 
-#### Pro
+# Pro
 
-#### Cons
+# Cons
 
-#### Sample images
+# Sample images
 
 - normal and macro
 
-#### Outings
+# Outings
 
 - descending date, sample pic, notes
