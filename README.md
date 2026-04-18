@@ -20,3 +20,5 @@
 | Vivitar         | Nikon F    | 75-200mm     | 4.5    | [link](./lenses/vivitar-75-200mm/snow-geese.jpg)    | [link](https://www.youtube.com/watch?v=1GjfKuYk2jw) | $35    | Medium |
 
 Quality ranking equates to sharpness, see individual lens pages for more info
+
+View the [lenses](/lenses) folder for more info on each lens
