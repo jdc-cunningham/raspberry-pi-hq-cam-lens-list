@@ -12,7 +12,7 @@
 | Kodak           | C          | 152mm        | 4.5    | [link](./lenses/kodak-152mm/buildings.jpg)          | [link](https://www.youtube.com/watch?v=kJCApRBXa9o) | $130   | High    |
 | Rainbow         | C          | 3.5mm        | 1.6    | [link](./lenses/rainbow-3.5mm/pawpaw-flowers.jpg)   | [link](https://www.youtube.com/watch?v=HEy777opSUo) | $40    | Low     |
 | Rainbow         | C          | 4.8mm        | 1.8    | [link](./lenses/rainbow-4.8mm/trees.jpg)            | [link](https://www.youtube.com/watch?v=6hlHeVLLN_8) | $20    | Low     |
-| Rainbow         | C          | 6mm          | 1.2    | [link](./lenses/rainbow-6mm//tulips.jpg)            | [link](https://www.youtube.com/watch?v=Tc0HY5uABVc) | $27    | Low     |
+| Rainbow         | C          | 6mm          | 1.2    | [link](./lenses/rainbow-6mm//tulips.jpg)            | [link](https://www.youtube.com/watch?v=Tc0HY5uABVc) | $27    | Medium  |
 | Revere-Scienar  | C          | 25mm         | 2.5    | [link](./lenses/revere-scienar-25mm/blue.jpg)       | [link](https://www.youtube.com/watch?v=ThUsWES2a6c) | $40    | High    |
 | Som Berthiot    | C          | 10mm         | 1.9    | [link](./lenses/som-berthiot-10mm/reflection.jpg)   | [link](https://www.youtube.com/watch?v=kJCApRBXa9o) | $100   | ?       |
 | Som Berthiot    | C          | 25mm         | 1.9    | [link](.lenses/som-berthiot-25mm/tree.jpg)          | [link](https://www.youtube.com/watch?v=-M9KRiB2LXU) | $40    | High    |
