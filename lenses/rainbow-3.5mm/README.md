@@ -4,7 +4,7 @@
 
 # Impressions
 
-[Close up of lens](https://www.youtube.com/watch?v=FhJdSTl2HSk)
+[Close up video of lens](https://www.youtube.com/watch?v=FhJdSTl2HSk)
 
 This lens is super wide... almost too wide... definitely for big shots not macro. I tried macro just for kicks and yeah it didn't really work out, on wide open it gives you a neat blur though.
 
