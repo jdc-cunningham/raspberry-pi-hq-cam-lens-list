@@ -3,7 +3,7 @@
 | Brand           | Mount Type | Focal Length | F-stop | Sample Pic                                          | Video                                               | Cost   | Quality |
 | --------------- | ---------- | ------------ | ------ | --------------------------------------------------- | --------------------------------------------------  | ------ | ------- |
 | Bell Howell     | C          | 17mm         | 2.5    | [link](./lenses/bell-howell-17mm/kansas-city.jpg)   | [link](https://www.youtube.com/watch?v=r_WMJfR2des) | $65    | High    |
-| Canon           | C          | 15-75mm      |        | [link](./lenses/canon-15-75mm/snow-geese.jpg)       | [link](https://www.youtube.com/watch?v=DTbZZfvv1Wo) | $75    | High    |
+| Canon           | C          | 15-75mm      | 2.1    | [link](./lenses/canon-15-75mm/snow-geese.jpg)       | [link](https://www.youtube.com/watch?v=DTbZZfvv1Wo) | $75    | High    |
 | Computar        | C          | 8-48mm       | 1.2    | [link](./lenses/computar-8-48mm/green-roof.jpg)     | [link](https://www.youtube.com/watch?v=N7-w1U-3ddg) | $60    | High    |
 | Cosmicar        | C          | 6.5mm        | 1.8    | [link](./lenses/cosmicar-6.5mm/lake-tree.jpg)       | [link](https://www.youtube.com/watch?v=xz042tCwgLM) | $40    | Medium  |
 | Cosmicar        | C          | 12.5mm       | 1.4    | [link](./lenses/cosmicar-12.5mm/park-walk.jpg)      | [link](https://www.youtube.com/watch?v=QXmjm_u0AMw) | $75    | Medium  |
