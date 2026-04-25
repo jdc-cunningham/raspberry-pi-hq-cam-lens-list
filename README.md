@@ -22,3 +22,5 @@
 Quality ranking equates to sharpness, see individual lens pages for more info
 
 View the [lenses](/lenses) folder for more info on each lens
+
+Check my [flickr account](https://www.flickr.com/photos/204225625@N02/) for photos
